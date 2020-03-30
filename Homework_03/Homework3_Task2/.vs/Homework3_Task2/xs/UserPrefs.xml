@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{DB3409D1-1321-4F4A-A2DA-3352F8ED11FD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Homework3_Task1/Program.cs">
+﻿<Properties StartupConfiguration="{75B35A5E-10DE-45E3-9C06-54EFADE6FE20}|Default">
+  <MonoDevelop.Ide.ItemProperties.Homework3__Task2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework3_Task2/Program.cs">
     <Files>
-      <File FileName="Homework3_Task1/Program.cs" Line="35" Column="1" />
+      <File FileName="Homework3_Task2/Program.cs" Line="11" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Homework3_Task1" expanded="True">
-            <Node name="Homework3_Task1" expanded="True">
+          <Node name="Homework3_Task2" expanded="True">
+            <Node name="Homework3_Task2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +16,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Homework3__Task1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
