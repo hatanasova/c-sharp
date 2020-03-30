@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{EA47D608-B7D8-4D99-8E6E-516D65FB7B33}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Homework2_Task4/Program.cs">
+﻿<Properties StartupConfiguration="{DB3409D1-1321-4F4A-A2DA-3352F8ED11FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework3_Task1/Program.cs">
     <Files>
-      <File FileName="Homework2_Task4/Program.cs" Line="16" Column="1" />
+      <File FileName="Homework3_Task1/Program.cs" Line="12" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Homework2_Task4" expanded="True">
-            <Node name="Homework2_Task4" expanded="True">
+          <Node name="Homework3_Task1" expanded="True">
+            <Node name="Homework3_Task1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework3__Task1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Homework2__Task4 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
