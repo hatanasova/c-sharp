@@ -23,7 +23,7 @@ namespace Homework2_Task4
         static void SimpleCalc(string sNum1, string sNum2, string operand)
         {
             double number1, number2;
-            if ( !(Double.TryParse(sNum1, out number1) && Double.TryParse(sNum2, out number2)))
+            if ( !(Double.TryParse(sNum1, out number1)) || !(Double.TryParse(sNum2, out number2)) )
             {
                 Console.WriteLine("Input not a number!");
             } else
@@ -40,7 +40,10 @@ namespace Homework2_Task4
                         Console.WriteLine(number1 + " * " + number2 + " = " + (number1 * number2));
                         break;
                     case "/":
-                        Console.WriteLine(number1 + " / " + number2 + " = " + (number1 / number2));
+                        if (number2 == 0)
+                            Console.WriteLine("You cannot divide by 0!");
+                        else
+                            Console.WriteLine(number1 + " / " + number2 + " = " + (number1 / number2));
                         break;
                     default:
                         Console.WriteLine("Something Went Wrong! Try Again!");

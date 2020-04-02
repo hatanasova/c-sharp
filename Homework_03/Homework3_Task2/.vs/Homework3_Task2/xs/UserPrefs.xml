@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{75B35A5E-10DE-45E3-9C06-54EFADE6FE20}|Default">
-  <MonoDevelop.Ide.ItemProperties.Homework3__Task2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework3__Task2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Homework3_Task2/Program.cs">
     <Files>
-      <File FileName="Homework3_Task2/Program.cs" Line="11" Column="20" />
+      <File FileName="Homework3_Task2/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

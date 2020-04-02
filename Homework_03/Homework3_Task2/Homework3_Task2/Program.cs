@@ -30,7 +30,7 @@ namespace Homework3_Task2
             Double.TryParse(b, out sideTwo);
             Double.TryParse(c, out sideThree);
 
-            if (sideOne + sideTwo < sideThree || sideOne + sideThree < sideTwo || sideTwo + sideThree < sideOne)
+            if (sideOne + sideTwo <= sideThree || sideOne + sideThree <= sideTwo || sideTwo + sideThree <= sideOne)
                 return 0;
             else
                 return 1;
