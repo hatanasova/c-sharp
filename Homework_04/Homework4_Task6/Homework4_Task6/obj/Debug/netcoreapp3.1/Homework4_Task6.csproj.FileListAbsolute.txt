@@ -1,0 +1,12 @@
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/obj/Debug/netcoreapp3.1/Homework4_Task6.csprojAssemblyReference.cache
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/obj/Debug/netcoreapp3.1/Homework4_Task6.csproj.CoreCompileInputs.cache
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/obj/Debug/netcoreapp3.1/Homework4_Task6.AssemblyInfoInputs.cache
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/obj/Debug/netcoreapp3.1/Homework4_Task6.AssemblyInfo.cs
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/bin/Debug/netcoreapp3.1/Homework4_Task6.deps.json
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/bin/Debug/netcoreapp3.1/Homework4_Task6.runtimeconfig.json
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/bin/Debug/netcoreapp3.1/Homework4_Task6.runtimeconfig.dev.json
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/bin/Debug/netcoreapp3.1/Homework4_Task6.dll
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/bin/Debug/netcoreapp3.1/Homework4_Task6.pdb
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/obj/Debug/netcoreapp3.1/Homework4_Task6.dll
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/obj/Debug/netcoreapp3.1/Homework4_Task6.pdb
+/Users/atanasova/Desktop/C#/00_Homeworks/Homework_04/Homework4_Task6/Homework4_Task6/obj/Debug/netcoreapp3.1/Homework4_Task6.genruntimeconfig.cache
